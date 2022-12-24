@@ -1,0 +1,57 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "d:/3dPrints/Firmware/Kobra_Plus/source/Marlin",
+                "d:/3dPrints/Firmware/Kobra_Plus/source/.pio/libdeps/mega2560/TMCStepper/src",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/variants/mega",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/3dPrints/Firmware/Kobra_Plus/source/Marlin",
+                    "d:/3dPrints/Firmware/Kobra_Plus/source/.pio/libdeps/mega2560/TMCStepper/src",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/omega/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_MEGA2560",
+                "__MARLIN_FIRMWARE__",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/omega/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

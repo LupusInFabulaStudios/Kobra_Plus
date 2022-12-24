@@ -37,6 +37,8 @@
 // Public functions
 // ------------------------
 
+#include "D:\3dPrints\Firmware\Kobra_Plus\source\framework\cores\io.cpp"
+
 void FastIO_init(); // Must be called before using fast io macros
 
 // ------------------------

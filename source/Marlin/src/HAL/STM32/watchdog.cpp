@@ -30,7 +30,7 @@
 
 #if ENABLED(USE_WATCHDOG)
 
-#include "../cores/iwdg.h"
+#include "../../../../framework/cores/iwdg.h"
 #include "watchdog.h"
 
 bool wdt_init_flag = false;

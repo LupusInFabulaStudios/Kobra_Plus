@@ -21,6 +21,7 @@
  */
 #pragma once
 
+#define HC32F46x
 #ifndef HC32F46x
   #error "Oops! Select an HC32F46x board in 'options > c/c++->defines.'"
 #endif

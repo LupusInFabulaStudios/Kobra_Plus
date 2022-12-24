@@ -23,6 +23,7 @@
 #if defined(ARDUINO_ARCH_STM32) && !defined(STM32GENERIC)
 
 #include "../../inc/MarlinConfig.h"
+#include "HAL.h"
 
 #if ENABLED(FLASH_EEPROM_EMULATION)
 

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pins_ac_tri_f1_v1.h": "c",
+        "hc32_ddl.h": "c",
+        "hc32_common.h": "c",
+        "ddl_config.h": "c",
+        "hc32f46x_interrupts.h": "c",
+        "stm32f103xe.h": "c",
+        "hc32f46x.h": "c",
+        "system_stm32f1xx.h": "c",
+        "system_hc32f46x.h": "c"
+    }
+}

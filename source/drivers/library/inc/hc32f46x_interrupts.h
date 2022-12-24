@@ -305,6 +305,8 @@ extern en_result_t enEventDisable(uint32_t u32Event);
 extern en_result_t enIntEnable(uint32_t u32Int);
 extern en_result_t enIntDisable(uint32_t u32Int);
 
+#define __WEAKDEF __attribute__((weakref))
+
 /*******************************************************************************
  * Global function prototypes (definition in C source)
  ******************************************************************************/

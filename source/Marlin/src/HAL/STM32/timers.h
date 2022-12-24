@@ -26,8 +26,9 @@
  */
 
 #include <stdint.h>
-#include "../board/startup.h"
+#include "../../board/startup.h"
 #include "../../core/boards.h"
+#include "../../board/hc32f46x_timer4_cnt.h"
 
 // ------------------------
 // Defines

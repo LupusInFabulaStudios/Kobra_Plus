@@ -21,6 +21,8 @@
  */
 #pragma once
 
+#include "../../../../framework\cores\pgmspace.h"
+
 /**
  * English
  *
